@@ -1,2 +1,6 @@
 text merge
+<<<<<<< HEAD
 day la text merge cua branch test_conflict
+=======
+day la text merge cua branch test_merge
+>>>>>>> test_merge
